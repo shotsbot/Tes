@@ -1,0 +1,14 @@
+{
+  "name": "RiSETBrowser",
+  "description": "The ultimate 2026 Android browser simulator with advanced ad-blocking, 1DM-style media downloader, and a super-polished Chrome-inspired UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Ad-Blocking",
+    "Media Downloader",
+    "Modern UI/UX"
+  ]
+}
